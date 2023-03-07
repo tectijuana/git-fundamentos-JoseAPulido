@@ -2,6 +2,9 @@ DESCRIPCIÓN
 El DS1307 Real-Time-Clock Serie, es un dispositivo de bajo consumo de energía,
 completo con código binario decimal (BCD), reloj/calendario más 56 bytes de NV SRAM.
 Dirección y datos son transferidos a través de 2 hilos serie, bus bi-direccional.
-![](imagenes/Modulo-RTC-DS1307-CON-MEMORIA-32K-ARTC1307-imagen-1.jpg)
+! [] (imagenes/Modulo-RTC-DS1307-CON-MEMORIA-32K-ARTC1307-imagen-1.jpg)
 #
 ##
+CARACTERÍSTICAS
+° Reloj en tiempo real (RTC) Cuenta segundos, Minutos, horas, fecha del mes, mes, día
+de la semana, y año con año bisiesto Compensación Válido hasta 2100.
